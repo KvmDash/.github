@@ -3,7 +3,7 @@
 <table style="border-collapse: collapse; width: 100%;">
     <tr>
         <td style="width: 150px; padding: 10px; vertical-align: middle;">
-            <img src="frontend/src/assets/kvmdash.svg" alt="KvmDash Logo" style="max-width: 100%;">
+            <img src="./kvmdash.svg" alt="KvmDash Logo" style="max-width: 100%;">
         </td>
         <td style="padding: 10px; vertical-align: middle;">
             KVMDash is a web application that enables the management of Virtual Machines (VMs) on Linux systems.
@@ -12,18 +12,10 @@
     </tr>
 </table>
 
-## 📑 Table of Contents
-- [Features](#features)
-- [Demo Videos](#demo-videos)
-- [System Requirements](#system-requirements)
-- [Installation](#installation)
-  - [1. Install System Requirements](#1-install-system-requirements)
-  - [2. Install KVMDash](#2-install-kvmdash)
-  - [3. Set Up Backend](#3-set-up-backend)
-  - [4. Set Up Frontend](#4-set-up-frontend)
-  - [5. Set Up Web Server](#5-set-up-web-server)
-  - [6. Direct Testing Without Apache (Development Environment)](#6-direct-testing-without-apache-development-environment)
-- [Documentation](#documentation)
+## Demo Video
+
+https://github.com/user-attachments/assets/ec76e8fa-f9b1-487d-87a8-6d370dbfb73c
+
 
 ## Features
 
@@ -34,18 +26,6 @@
 ### System Monitoring
 * Real-time monitoring of resources such as CPU, memory, disk usage, and other important system metrics.
 * Clear visualization of system performance for optimal control and error analysis.
-
-## Demo Videos
-
-https://github.com/user-attachments/assets/ec76e8fa-f9b1-487d-87a8-6d370dbfb73c
-
-## System Requirements
-
-* Node.js 18.x or newer
-* npm 9.x or newer
-* Composer 2.x
-* KVM and libvirt
-* Apache Web Server with PHP 8.2
 
 
 Additional documentation:
