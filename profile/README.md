@@ -1,4 +1,4 @@
-# Project Description: KVMDash
+# KVMDash
 
 <table style="border-collapse: collapse; width: 100%;">
     <tr>
